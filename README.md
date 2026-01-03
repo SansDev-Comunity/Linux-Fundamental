@@ -11,4 +11,4 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
 ![Mandriva](https://www.fujitsu.com/id/Images/Suse-Logo-580x224_tcm114-102997.png)
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
-![Mandriva](h[ttps://static.cdnlogo.com/logos/u/42/ubuntu.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mm0SWvFOzWLq5vtZ1nVHvbV6-i4dwShsXg&s)
+![Mandriva](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Mm0SWvFOzWLq5vtZ1nVHvbV6-i4dwShsXg&s)
