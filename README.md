@@ -14,3 +14,9 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 ### 1. Pengembangan sebuah aplikasi
 ### 2. Kebutuhan Cloud Computing Mobile Aplication dan IOT
 ### 3. Salah satu skill yang banyak di cari pada lowongan di bidang IT
+
+# Ubuntu
+
+1. Linux Based Operating System (OS)
+
+2. Di perkenalkan perusahaan dari UK yang bernama Canonical pada tahun 2024
