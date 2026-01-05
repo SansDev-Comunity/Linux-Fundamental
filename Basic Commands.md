@@ -25,7 +25,7 @@ clear = membersihkan layar <br>
 
 ### Assesmen Server
 
-cat/etc/os-release = menapilkan sistem operasi <br>
+cat /etc/os-release = menapilkan sistem operasi <br>
 uname = menampilkan sistem operasi <br>
 Iscpu = menampilkan processor server <br>
 free -h = menapilkan memory <br>
