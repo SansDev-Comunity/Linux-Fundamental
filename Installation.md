@@ -9,3 +9,6 @@
 5. 25 GB free hard drive space
 
 ![Ubuntu](https://raw.githubusercontent.com/SansDev-Comunity/Belajar-Linux-Dari-Nol/refs/heads/main/img/virtualbox.png)
+
+1. Dowonload sesuai OS Anda
+2. 
