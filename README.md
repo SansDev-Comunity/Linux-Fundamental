@@ -36,3 +36,4 @@ update selama 9 bulan
 ### Ubuntu Releases
 
 23.10 (Mantic Minotaur)
+23.04 (Lunar Lobster)
