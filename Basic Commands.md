@@ -1,4 +1,4 @@
-### Basic Linux
+## Basic Linux
 
 # Basic Commands
 
