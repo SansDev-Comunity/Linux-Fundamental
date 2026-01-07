@@ -1,1 +1,14 @@
 # Users and Permissions
+
+## User Management
+
+1. useradd / adduser = membuat user baru <br>
+2. userdel = menghapus user <br>
+3. usermod = modifikasi user <br>
+4. passwd = mengubah password user
+
+## Group Management
+
+1. groupadd = membuat group baru <br>
+2. groupdel = menghapus group <br>
+3. groupmod = modifikasi group
