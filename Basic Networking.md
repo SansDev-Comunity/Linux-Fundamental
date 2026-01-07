@@ -14,5 +14,5 @@ Netplan
 
 ip a / ifcoding = untuk melihat <br>
 konfigurasi ip. <br>
-traceroute = untuk melacak rute paket <br>
-ping = untuk memeriksa koneksivitas perangkat
+traceroute = untuk melacak rute paket. <br>
+ping = untuk memeriksa koneksivitas perangkat.
