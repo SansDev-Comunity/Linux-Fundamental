@@ -1,4 +1,4 @@
-# Apa itu Linux
+<img width="405" height="599" alt="image" src="https://github.com/user-attachments/assets/df9534d6-7876-4728-a2d5-e813d8a1f279" /># Apa itu Linux
 
 Linux adalah sebuah sistem operasi seperti Unix yang menggunakan kernel,
 Sistem operasi ini bersifat bebas digunakan dan opensource sehingga bisa dipakai dan dikembangkan oleh semua pihak.
