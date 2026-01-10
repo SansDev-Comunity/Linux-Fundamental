@@ -12,3 +12,5 @@
 2. Sedikitnya dukungan terhadap hardware dan aplikasi yang terdapat pada sistem
 3. Kurang cocok digunakan untuk gamis, sehingga memerlukan alternatif lain
 4. Dukungan Gaming: Jumlah game yang tersedia masih lebih sedikit dibanding Windows
+5. Kurva Belajar Tinggi: Pengguna baru, terutama yang terbiasa Windows, mungkin kesulitan memahami root, terminal, dan konsep lainnya, meskipun ada distro yang lebih ramah pengguna (seperti Ubuntu).
+6. Banyak Distro
