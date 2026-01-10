@@ -9,3 +9,5 @@ Linux merupakan sistem operasi yang paling banyak digunakan untuk infrastruktur 
 
 Linux sudah ada dari akhir tahun 1990-an
 Untuk saat ini linux adalah sistem operasi yang paling stabil, perkembangan nya cepat, opensource, bebas digunakan, sangat aman dan GRATIS.
+
+Penggagas grup ini adalah Richard Stallman.
