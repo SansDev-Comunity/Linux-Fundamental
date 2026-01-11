@@ -40,3 +40,5 @@ Debian adalah sistem operasi (OS) yang sangat serbaguna, cocok baik untuk server
 ### Belajar Debian
 
 Situs Resmi Debian: https://www.debian.org/ <br>
+Debian Wiki: https://wiki.debian.org/ <br>
+Forum Komunitas Debian: https://forums.debian.net/
