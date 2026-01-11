@@ -97,12 +97,12 @@ Kurang terkenal, Masalah driver, Dukungan terhadap permainan game
 
 7. Fluxbox: Versi Linux Mint yang menggunakan desktop environment Fluxbox, dengan tampilan yang minimalis dan sangat ringan.
 
-### Slackware
+### 5. Slackware
    
 Sistem operasi Slackware sangat konservatif, sehingga cocok digunakan untuk pengguna yang berpengalaman. 
 
 
-### Red Hat
+### 6. Red Hat
 
 Red Hat adalah salah satu jenis distribusi yang sangat cocok untuk digunakan dalam pengembangan bisnis. Sistem ini dikembangkan oleh Red Hat Inc.
 Kelebihan dari sistem operasi ini adalah kemudahannya dalam instalasi.
