@@ -38,3 +38,5 @@ Jenis-jenis Debian yaitu:
 Debian adalah sistem operasi (OS) yang sangat serbaguna, cocok baik untuk server maupun desktop. Namun, beberapa faktor membuat Debian cenderung lebih unggul dalam salah satu penggunaan daripada yang lain.
 
 ### Belajar Debian
+
+[Situs Resmi Debian: https://www.debian.org/ Menyediakan dokumentasi resmi, panduan pemasangan, dan berita terkini tentang Debian.] <br>
